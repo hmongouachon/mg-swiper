@@ -5,6 +5,6 @@ A responsive html content swiper / slider with fullscreen background images base
 CONFIGURATION
 ----------------------------------------------
 
-1 - Install plugin
-2 - Configure plugin pages ( add text + image)
-3 - Add shortcode : [mg_swiper] in your page
+1 - Install plugin<br />
+2 - Configure slides : add text + image<br />
+3 - Add shortcode : [mg_swiper] in your page where you want the slider to display
